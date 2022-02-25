@@ -21,6 +21,7 @@ public class HelloWorld {
         int guess = 0;
         // Counter
         int count = 0;
+        int count1 = 0;
 
         // Create random number 1-10
         Random randomNumber = new Random();
